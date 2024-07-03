@@ -20,6 +20,13 @@ redirect_from:
 
 My research interest includes 
 
+# Educations
+- *2018.08 - 2022.06*, B.S. in Statistics, University of Science and Technology of China. 
+- *2022.09 - present*, Ph.D. in Statistics, University of Wisconsin-Madison.
+
+# Honors and Awards
+- *2017.11*, Chinese Mathematics Olympiad. 
+
 
 
 
