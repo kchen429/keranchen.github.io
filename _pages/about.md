@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My research interest includes 
+I'm a second-year Ph.D. student in Statistics at UW-Madison, advised by [Professor Kirthevasan Kandasamy] (https://pages.cs.wisc.edu/~kandasamy/index.html).
 
 # Educations
 - *2018.08 - 2022.06*, B.S. in Statistics, University of Science and Technology of China. 
