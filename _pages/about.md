@@ -27,6 +27,11 @@ I'm a second-year Ph.D. student in Statistics at [UW-Madison](https://www.wisc.e
 # Honors and Awards
 - *2017.11*, Chinese Mathematical Olympiad, Bronze.
 
+# Publications 
+- Learning to Price Homogeneous Data
+  Keran Chen, Joon Suk Huh, Kirthevasan Kandasamy
+  [Arxiv](https://arxiv.org/abs/2407.05484)
+
 
 
 
