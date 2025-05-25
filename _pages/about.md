@@ -34,7 +34,7 @@ I'm a third-year Ph.D. student in Statistics at [UW-Madison](https://www.wisc.ed
 - Contributor-Side Incentives in a Data Marketplace for Mean Estimation
   Keran Chen, Alexander Clinton, Kirthevasan Kandasamy. [Arxiv](https://arxiv.org/abs/2407.05484)
 
-# Phtotgraph 
+# Phtotgraphy 
   [Phtotgraph](https://docs.google.com/document/d/1aUF2p1PiZEmNHoGkYVa8Au1QCvwlZp-_xTNDjL4nwP0/edit?tab=t.0)
   
   
