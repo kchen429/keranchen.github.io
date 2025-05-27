@@ -28,10 +28,10 @@ I'm a third-year Ph.D. student in Statistics at [UW-Madison](https://www.wisc.ed
 - *2017.11*, Chinese Mathematical Olympiad, Bronze.
 
 # Publications 
-- Learning to Price Homogeneous Data
-  Keran Chen, Joon Suk Huh, Kirthevasan Kandasamy, NeurIPS 2024. [Arxiv](https://arxiv.org/abs/2407.05484)
+- Learning to Price Homogeneous Data. 
+  Keran Chen, Joon Suk Huh, Kirthevasan Kandasamy, (NeurIPS 2024). [Arxiv](https://arxiv.org/abs/2407.05484)
 
-- Contributor-Side Incentives in a Data Marketplace for Mean Estimation
+- Contributor-Side Incentives in a Data Marketplace for Mean Estimation. 
   Keran Chen, Alexander Clinton, Kirthevasan Kandasamy. [Arxiv](https://arxiv.org/abs/2407.05484)
 
 # Phtotgraphy 
