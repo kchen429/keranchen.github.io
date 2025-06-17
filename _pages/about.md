@@ -32,7 +32,7 @@ I'm a third-year Ph.D. student in Statistics at [UW-Madison](https://www.wisc.ed
   Keran Chen, Joon Suk Huh, Kirthevasan Kandasamy (NeurIPS 2024). [Arxiv](https://arxiv.org/abs/2407.05484)
 
 - **Contributor-Side Incentives in a Data Marketplace for Mean Estimation.** 
-  Keran Chen, Alexander Clinton, Kirthevasan Kandasamy. [Arxiv](https://arxiv.org/abs/2407.05484)
+  Keran Chen, Alexander Clinton, Kirthevasan Kandasamy. [Arxiv](https://arxiv.org/abs/2502.16052)
 
 # Phtotgraphy 
   [Phtotgraph](https://docs.google.com/document/d/1aUF2p1PiZEmNHoGkYVa8Au1QCvwlZp-_xTNDjL4nwP0/edit?tab=t.0)
